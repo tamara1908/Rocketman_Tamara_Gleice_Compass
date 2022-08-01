@@ -21,12 +21,16 @@ Este repositório foi criado para que eu possa  dar 'commitches' nos exercícios
 
 ### 🎯COMPASS.UOL <h3>
 
-**Autor:**
-Tamara Gleice - Entrega inicial - Link para a raiz do projeto no git
+#### Autor: <h4>
+Tamara Gleice - Entrega inicial - 
+##### Link para raiz do projeto: <h5> 
+**https://github.com/tamara1908/Rocketman_Tamara_Gleice_Compass**
 
-**Créditos:**
-Agradecimento as pessoas que apoiaram no projeto: **Larissa Campos (Scrum Master), Amanda Paz,Cleonice e a toda Turma 04 que ajudou de alguma forma;**
+### Créditos: <h3>
+
+#### Agradecimento as pessoas que apoiaram no projeto: <h4>
+ **Larissa Campos (Scrum Master), Amanda Paz,Cleonice e a toda Turma 04 que ajudou de alguma forma;**
 
 ## Sites utilizados como referência: <h2>
 
-(vou adicionar no decorrer do projeto!).
+**Vídeos disponibilizados pela Compass**
