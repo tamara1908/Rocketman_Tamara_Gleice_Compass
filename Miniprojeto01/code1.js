@@ -1,4 +1,14 @@
-let idade=11;
-console.log(idade);
+// let idade = 22;
+// console.log(idade);
+// let altura = 156;
+// console.log(altura);
+
+let Nome = 'Tamara';
+console.log(Nome);
+
+
+
+
+
 
 
