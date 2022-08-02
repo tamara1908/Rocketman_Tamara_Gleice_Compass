@@ -32,4 +32,5 @@ Tamara Gleice - Entrega inicial -
 
 ## Sites utilizados como referência: <h2>
 
+**https://www.youtube.com/watch?v=i6Oi-YtXnAU&t=12995s**
 **Vídeos disponibilizados pela Compass**
