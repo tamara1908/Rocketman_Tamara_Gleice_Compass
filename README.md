@@ -5,11 +5,12 @@
 ### SPRINT 4 - TECH <h3>
 *Olá pessoal!* 😁👍❤️
 
-Este repositório foi criado para que eu possa  dar 'commitches' nos exercícios diários .
+Este repositório foi criado para que eu possa  dar 'commitches' nos exercícios .
 
 ## 🖥️ Técnologias utilizadas <h2>
  * Sistema GIT para versionamento de arquivos.
  * Plataforma e ferramentas GitHub.
+ * Visual Studio Code.
  * Linguagem de programação Javascript.
  * KOANS JS - Aprendizado sobre refatoração de testes automatizados.
  * TDD - Test Driven Development ou Desenvolvimento Guiado por Testes
