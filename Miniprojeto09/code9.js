@@ -1,6 +1,7 @@
 //Criar uma função que exibe a quantidade de *
 //que aquela linha possuí
 
+
 exibirAsteriscos(5);
 
 function exibirAsteriscos(linhas) {
