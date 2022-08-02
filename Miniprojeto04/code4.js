@@ -2,8 +2,7 @@
 // a cada 5km acima do limite você ganha 1 ponto
 //Math.Floor()
 //caso os pontos sejam maior que 12 --> "Carteira Suspendida"
-
-verificarVelocidade(200);
+verificarVelocidade(150);
 
 function verificarVelocidade(velocidade) {
    const velocidadeMaxima = 70;
