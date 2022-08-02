@@ -5,8 +5,6 @@
 ### SPRINT 4 - TECH <h3>
 *Olá pessoal!* 😁👍❤️
 
-Nesta Sprint vou iniciar o aprendizado de novas ferramentas.
-
 Este repositório foi criado para que eu possa  dar 'commitches' nos exercícios diários .
 
 ## 🖥️ Técnologias utilizadas <h2>
