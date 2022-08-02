@@ -3,7 +3,7 @@
 ### Rocketman_Tamara_Gleice_Compass <h3>
 
 ### SPRINT 4 - TECH <h3>
-*Olá pessoal!* 😁👍❤️
+*Olá pessoal!* 
 
 Este repositório foi criado para que eu possa  dar 'commitches' nos exercícios .
 
