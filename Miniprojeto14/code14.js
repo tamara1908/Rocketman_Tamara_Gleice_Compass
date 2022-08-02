@@ -19,6 +19,7 @@ let faixas2 = [
     criaFaixaPreco('c',1000,10000),
 ]
 
+
 //Terceira Opção: (Constructor Function)
 
 function FaixaPreco(tooltip,minimo,maximo){
