@@ -1,13 +1,13 @@
-# Javascript e Versionamento de Código <h1>
+## Javascript e Versionamento de Código 
 
-### Rocketman_Tamara_Gleice_Compass <h3>
+### 🚀Rocketman_Tamara_Gleice_Compass 
 
-### SPRINT 4 - TECH <h3>
+#### SPRINT 4 - TECH 
 *Olá pessoal!* 
 
 Este repositório foi criado para que eu possa  dar 'commitches' nos exercícios .
 
-## 🖥️ Técnologias utilizadas <h2>
+### 🖥️ Técnologias utilizadas 
  * Sistema GIT para versionamento de arquivos.
  * Plataforma e ferramentas GitHub.
  * Visual Studio Code.
@@ -16,21 +16,31 @@ Este repositório foi criado para que eu possa  dar 'commitches' nos exercícios
  * TDD - Test Driven Development ou Desenvolvimento Guiado por Testes
  * Bibliotecas como Mocha e Chai.
 
-## Direitos Autorais: <h2>
+## Direitos Autorais: 
+### COMPASS.UOL🎯 
 
-### 🎯COMPASS.UOL <h3>
-
-#### Autor: <h4>
+### Autor: 
 Tamara Gleice - Entrega inicial - 
-##### Link para raiz do projeto: <h5> 
+##### Link para raiz do projeto:  
 **https://github.com/tamara1908/Rocketman_Tamara_Gleice_Compass**
 
-### Créditos: <h3>
+## Créditos: 
 
-#### Agradecimento as pessoas que apoiaram no projeto: <h4>
- **Larissa Campos (Scrum Master), Amanda Paz,Cleonice e a toda Turma 04 que ajudou de alguma forma;**
+### Agradecimento as pessoas que me apoiaram no projeto: 
+* ### Larissa Campos (Scrum Master)
+ E agradeço a TODOS da Turma 04 especificamente: 
+ * Amanda Paz
+ * Cleonice Alves 
+ * Gabriel Picagevicz
+ * Renan
 
-## Sites utilizados como referência: <h2>
+## Sites utilizados como referência: 
+* **Vídeos disponibilizados pela Compass**
 
-**https://www.youtube.com/watch?v=i6Oi-YtXnAU&t=12995s**
-**Vídeos disponibilizados pela Compass**
+**Onde aprendi a utilizar o VScode e através dele consegui realizar os 14 Mini Projetos:**
+* https://www.youtube.com/watch?v=i6Oi-YtXnAU&t=12995s
+
+**Onde aprendi a utilizar o Git e Github:**
+* https://github.com/tamara1908/GitTutorial
+* https://www.youtube.com/watch?v=UBAX-13g8OM&list=PLhkO7OMKgT_rqwGYldqcFxyN4yjFgmDh8
+* https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
