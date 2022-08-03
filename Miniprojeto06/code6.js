@@ -4,9 +4,9 @@ const filme = {
     Título : 'Barbie em a Princesa e a Plebeia',
     Ano : 2004,
     Diretor: 'William Lau',
-    Personagem: 'Princesa Anneliese',
-    Personagem: 'Érika',
-    Personagem: 'Wolfie gatinho'
+    PersonagemP: 'Princesa Anneliese',
+    Personagem2: 'Érika',
+    Personagem3: 'Wolfie gatinho'
 }
 exibirPropriedades(filme);
 function exibirPropriedades(obj) {
