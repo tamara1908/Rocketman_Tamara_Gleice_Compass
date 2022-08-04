@@ -28,8 +28,8 @@ describe('Testes de soma',() => {
         expect(resultado).to.be.eq(18)
     })
     it('Deve somar 95 e 85 resultando em 180', () => {
-        let resultado = Calculadora.soma(95 , 85)
-        expect(resultado).to.be.eq(-180)
+        let resultado = Calculadora.soma(-95 , 85)
+        expect(resultado).to.be.eq(180)
     })
 })
 
@@ -52,7 +52,7 @@ describe('Testes de subtração',() => {
         let resultado = Calculadora.sub(-7 , 6)
         expect(resultado).to.be.eq(1)
     })
-    it('Deve subtrair 99 e 6 resultando em 93', () => {
+    it('Deve subtrair 99 e 0 resultando em 93', () => {
         let resultado = Calculadora.sub(99 , -6)
         expect(resultado).to.be.eq(93)
     })
@@ -85,7 +85,7 @@ describe('Testes de multiplicação',() => {
         expect(resultado).to.be.eq(40)
     })
     it('Deve multiplicar 50 e 10 resultando em 500', () => {
-        let resultado = Calculadora.multi(A , 10)
+        let resultado = Calculadora.multi(5 , 10)
         expect(resultado).to.be.eq(500)
     })
 })
@@ -163,15 +163,15 @@ describe('Testes de um numero x ao quadrado', () => {
      }) 
      it ('Deve expor o valor de 3 ao quadrado resultando em 9', () => {
         let  resultado = Calculadora.quad(3)
-        expect(resultado).to.be.eq(19)
+        expect(resultado).to.be.eq(9/0)
      }) 
      it ('Deve expor o valor de 6 ao quadrado resultando em 36', () => {
          let  resultado = Calculadora.quad(6)
-         expect(resultado).to.be.eq(A)
+         expect(resultado).to.be.eq(3,6)
       }) 
       it ('Deve expor o valor de 7 ao quadrado resultando em 49', () => {
          let  resultado = Calculadora.quad(7)
-         expect(resultado).to.be.eq(48)
+         expect(resultado).to.be.eq(9)
       }) 
 })
 //(Com a ajuda da turma 04!)
