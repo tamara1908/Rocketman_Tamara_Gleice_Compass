@@ -34,3 +34,4 @@ export default class Calculadora {
         return a * a
     }
 }
+//
