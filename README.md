@@ -6,6 +6,9 @@
 *Olá pessoal!* 
 
 Este repositório foi criado para que eu possa  dar 'commitches' nos exercícios .
+#### As pastas estão organizadas por nome dos respectivos 'Mini projetos' do vídeo.
+#### Já a calculadora se encontra na pasta Mocha - Chai.
+
 
 ### 🖥️ Técnologias utilizadas 
  * Sistema GIT para versionamento de arquivos.
@@ -28,6 +31,7 @@ Tamara Gleice - Entrega inicial -
 
 ### Agradecimento as pessoas que me apoiaram no projeto: 
 * ### Larissa Campos (Scrum Master)
+* ### Cassiano Jovino
  E agradeço a TODOS da Turma 04 especificamente: 
  * Amanda Paz
  * Cleonice Alves 
