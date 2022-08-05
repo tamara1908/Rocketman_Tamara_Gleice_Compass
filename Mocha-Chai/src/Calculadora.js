@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> Develop
 export default class Calculadora {
     
     //CÁLCULO DE SOMA/ADIÇÃO;
