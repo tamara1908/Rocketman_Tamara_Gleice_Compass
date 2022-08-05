@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> Develop
 export default class Calculadora {
     
     //CÁLCULO DE SOMA/ADIÇÃO;
@@ -34,4 +30,4 @@ export default class Calculadora {
         return a * a
     }
 }
-/
+//
